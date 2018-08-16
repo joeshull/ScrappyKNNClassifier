@@ -1,6 +1,6 @@
 # ScrappyKNNClassifier
 From the Google Developers' series Machine Learning Recipes. 
-Code from Episode #5. "Writing Our First Classifier"
+Episode #5. "Writing Our First Classifier"
 link: https://www.youtube.com/watch?v=AoeEHqVSNOw
 
 Commented by Joe Shull
